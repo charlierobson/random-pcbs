@@ -6530,13 +6530,13 @@ W = angled&lt;p&gt;
 <part name="IC1" library="microchip" library_urn="urn:adsk.eagle:library:294" deviceset="27*128" device="P" package3d_urn="urn:adsk.eagle:package:20790/1" technology="C"/>
 <part name="T1" library="transistor-neu-to92" library_urn="urn:adsk.eagle:library:397" deviceset="2N3904" device="" package3d_urn="urn:adsk.eagle:package:28725/2"/>
 <part name="T2" library="transistor-neu-to92" library_urn="urn:adsk.eagle:library:397" deviceset="2N3904" device="" package3d_urn="urn:adsk.eagle:package:28725/2"/>
-<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2"/>
+<part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/7" package3d_urn="urn:adsk.eagle:package:23493/2"/>
 <part name="TP2" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TPSQ" device="TP16R" package3d_urn="urn:adsk.eagle:package:27969/1"/>
 <part name="SV1" library="con-lsta" library_urn="urn:adsk.eagle:library:161" deviceset="FE12-1" device="" package3d_urn="urn:adsk.eagle:package:8193/1"/>
 <part name="SV2" library="con-lsta" library_urn="urn:adsk.eagle:library:161" deviceset="FE12-1" device="" package3d_urn="urn:adsk.eagle:package:8193/1"/>
 <part name="TP1" library="testpad" library_urn="urn:adsk.eagle:library:385" deviceset="TPSQ" device="TP16R" package3d_urn="urn:adsk.eagle:package:27969/1"/>
-<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2"/>
-<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0207/10" package3d_urn="urn:adsk.eagle:package:23491/2"/>
+<part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
+<part name="R3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="R1206" package3d_urn="urn:adsk.eagle:package:23540/2"/>
 </parts>
 <sheets>
 <sheet>
